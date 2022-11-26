@@ -1,5 +1,5 @@
 import string, sys
-start = print("\033[44m Welcome to the basic polynomial calculator code. Please press enter to start :) \033[0m")
+start = print("\033[44m Welcome to the basic polynomial calculator code. \033[0m")
 def polynomial(x, coef):
     sum = 0
     while 1:
